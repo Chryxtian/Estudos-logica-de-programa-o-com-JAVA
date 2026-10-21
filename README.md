@@ -1,1 +1,1 @@
-Neste repositório esta meus estudos de lógica de programação utilizando a linguagem JAVA.
+Neste repositório está presente meus estudos de lógica de programação utilizando a linguagem JAVA.
